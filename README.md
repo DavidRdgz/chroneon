@@ -9,5 +9,5 @@ using EMG (or any other time series signals) for classification purposes.
 ![Alt text](http://g.recordit.co/SfSKyG7TEB.gif)
 
 # Predicting
-![Alt text](http://recordit.co/LCi9MPV4vs/gif/notify)
+![Alt text](http://g.recordit.co/Jxgz0ifOxB.gif)
 
