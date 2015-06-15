@@ -8,6 +8,6 @@ using EMG (or any other time series signals) for classification purposes.
 # Recording
 ![Alt text](http://g.recordit.co/SfSKyG7TEB.gif)
 
-# Recording
-![Alt text](http://recordit.co/ayNThY011K/gif/notify)
+# Predicting
+![Alt text](http://recordit.co/LCi9MPV4vs/gif/notify)
 
