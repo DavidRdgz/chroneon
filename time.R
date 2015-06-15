@@ -251,7 +251,7 @@ runApp(list(
                 #v <- window_to_feature(d[,3:10]) 
 
                 # Comment this line for no windows / slide combo
-                v <- feature_matrix(d[,3:10], 10,2)
+                v <- feature_matrix(d[,3:10],input$windowPredict, input$slidePredict)
 
                 colnames(v) <- paste0(rep("X",ncol(v)), 1:ncol(v))
                 vv <- predict(s$pca, as.data.frame(v))
