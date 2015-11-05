@@ -9,6 +9,10 @@ A web app dashboard to record and train models to predict gestures from EMG sign
 This shiny web application is intended to provide a user friendly experience for researchers
 using EMG (or any other time series signals) for classification purposes.
 
+# Installation
+
+This app is a stand-alone application which can be run by simply the command:  `R ./chroneon.R`. Currently, the application queries `influxdb`- a fast time-series database for the most recent entries. For my use-case, I have a bluetooth device recording movement (EMG signals) and a `C++` application writing data to `influxdb`.
+
 # Recording
 
 Below is a snapshot of the user-defined settings possible during the recording phase. The streaming signals shown in the graph are color coded denoting the different signals. 
