@@ -45,3 +45,8 @@ Below is a snapshot of the user-defined settings possible during the prediction 
 ### Demo
 ![Alt text](http://g.recordit.co/Jxgz0ifOxB.gif)
 
+# Conclusions
+
+The above web app gives researchers the ability to stream-record-process multiple signals simultaneously. 
+
+If there are any questions send me a message.
