@@ -13,14 +13,14 @@ using EMG (or any other time series signals) for classification purposes.
 
 Below is a snapshot of the user-defined settings possible during the recording phase. The streaming signals shown in the graph are color coded denoting the different signals. 
 
-## The steps in the following demo are:
-
+**The steps in the following demo are:**
+``
 1. Set desired window frame
 2. Set User
 3. Set Gesture
 4. Click to save recording frame
 5. Scroll to view signal features from frame
-
+``
 ![Alt text](http://g.recordit.co/SfSKyG7TEB.gif)
 
 # Predicting
